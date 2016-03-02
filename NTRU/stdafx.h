@@ -9,7 +9,9 @@
 
 #include <stdio.h>
 #include <tchar.h>
-
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
 
 
 // TODO: reference additional headers your program requires here
