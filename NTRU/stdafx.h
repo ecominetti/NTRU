@@ -9,9 +9,6 @@
 
 #include <stdio.h>
 #include <tchar.h>
-#include <stdlib.h>
-#include <math.h>
-#include <string.h>
 
 
 
