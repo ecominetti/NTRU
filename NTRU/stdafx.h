@@ -12,6 +12,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
+#include "polymath.h"
 
 
 // TODO: reference additional headers your program requires here
