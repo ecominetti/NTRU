@@ -10,7 +10,7 @@ int main()
 	int b[4] = { 6,7,8,9 };
 	int c[5];
 
-	printf("teste");
+	printf("Testando novamente");
 	sumPoly(a, b, c, sizeof(a) / sizeof(int), sizeof(b) / sizeof(int));
 
 	system("PAUSE");
