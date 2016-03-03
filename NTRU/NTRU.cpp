@@ -10,7 +10,7 @@ int main()
 	int b[4] = { 6,7,8,9 };
 	int c[5];
 
-	printf("Testando novamente");
+	printf("Testando novamente funcionamento da chave oath");
 	sumPoly(a, b, c, sizeof(a) / sizeof(int), sizeof(b) / sizeof(int));
 
 	system("PAUSE");
