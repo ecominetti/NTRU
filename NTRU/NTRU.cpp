@@ -7,7 +7,7 @@
 int main()
 {
 	int a[5] = { 1,2,3,4,5 };
-	int b[5] = { 6,7,8,9,10 };
+	int b[5] = { 2,0,0,0,0 };
 	int c[5];
 
 	printf("Testando novamente funcionamento da chave oath");
